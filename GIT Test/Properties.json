@@ -21,7 +21,7 @@
   "DocumentAppType": "DesktopOrTablet",
   "AppCreationSource": "AppFromScratch",
   "AppDescription": "",
-  "LastControlUniqueId": 21,
+  "LastControlUniqueId": 30,
   "DefaultConnectedDataSourceMaxGetRowsCount": 500,
   "ErrorCount": 0,
   "ControlCount": {
